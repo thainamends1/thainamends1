@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 🇧🇷: I’m from Brazil.
 
 :computer: I'm Learn Web development!  
-:computer: I'm Learn Web Development!  
 
 <div>
 <a href="https://github.com/thainamends1">
